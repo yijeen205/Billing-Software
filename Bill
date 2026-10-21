@@ -15,7 +15,7 @@ public class ItemBill {
  
         double total = item1 + item2 + item3; 
  
-        System.out.printf("Total bill: %.2f%n", total); 
+        System.out.printf("Total bill with discount: %.2f%n", total); 
  
         input.close(); 
     } 
